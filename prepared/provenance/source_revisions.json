@@ -1,0 +1,18 @@
+[
+    {
+        "archive":  "grounded-misunderstandings-in-maptask-main.zip",
+        "revision":  "de31ce29b0387e2fa6ab9f96ebaeb6d0f91b1cbc",
+        "revision_evidence":  "GitHub ZIP archive comment; not independently checked against current main",
+        "received_utc":  "2026-10-28T21:42:06.8657763Z",
+        "original_download_date":  null,
+        "supplied_file_mtime_utc":  "2026-10-28T20:24:25.2516918Z"
+    },
+    {
+        "archive":  "PersuationGames-main.zip",
+        "revision":  "f0ba30b39ba485ae25856865572687babc5863b6",
+        "revision_evidence":  "GitHub ZIP archive comment; not independently checked against current main",
+        "received_utc":  "2026-10-28T21:42:06.8657763Z",
+        "original_download_date":  null,
+        "supplied_file_mtime_utc":  "2026-10-28T20:27:47.3485757Z"
+    }
+]

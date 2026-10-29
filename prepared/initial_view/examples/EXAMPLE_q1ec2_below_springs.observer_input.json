@@ -1,0 +1,391 @@
+{
+    "overall_task":  "One participant describes a route, and another attempts to reproduce it on their own map. Their maps may differ, and neither participant can see the other\u0027s map.",
+    "participants":  [
+                         {
+                             "participant_id":  "giver",
+                             "known_role":  "giver"
+                         },
+                         {
+                             "participant_id":  "follower",
+                             "known_role":  "follower"
+                         }
+                     ],
+    "context_sources":  [
+                            {
+                                "source_id":  "q1ec2.map9g",
+                                "content_or_path":  "context/map9g.png",
+                                "accessible_to_participants":  [
+                                                                   "giver"
+                                                               ]
+                            },
+                            {
+                                "source_id":  "q1ec2.map9f",
+                                "content_or_path":  "context/map9f.png",
+                                "accessible_to_participants":  [
+                                                                   "follower"
+                                                               ]
+                            }
+                        ],
+    "dialogue_prefix":  [
+                            {
+                                "utterance_id":  "q1ec2.row.001",
+                                "speaker":  "giver",
+                                "text":  "right"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.002",
+                                "speaker":  "giver",
+                                "text":  "start off facing north"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.003",
+                                "speaker":  "giver",
+                                "text":  "right"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.004",
+                                "speaker":  "giver",
+                                "text":  "turn to your left and walk forward then to your left again keep walking forward \u0027til you come to the site of a plane crash go right roundabout it and turn to your right so you end up facing north again"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.005",
+                                "speaker":  "follower",
+                                "text":  "could you just slow down a bit please"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.006",
+                                "speaker":  "giver",
+                                "text":  "sorry"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.007",
+                                "speaker":  "follower",
+                                "text":  "so i have to walk straight ahead from the start"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.008",
+                                "speaker":  "giver",
+                                "text":  "mmhmm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.009",
+                                "speaker":  "follower",
+                                "text":  "and then turn right"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.010",
+                                "speaker":  "giver",
+                                "text":  "mmhmm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.011",
+                                "speaker":  "giver",
+                                "text":  "just go a couple of steps"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.012",
+                                "speaker":  "follower",
+                                "text":  "mmhmm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.013",
+                                "speaker":  "follower",
+                                "text":  "have i to pass pass by the waterhole"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.014",
+                                "speaker":  "giver",
+                                "text":  "pass pass the pass"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.015",
+                                "speaker":  "giver",
+                                "text":  "well"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.016",
+                                "speaker":  "giver",
+                                "text":  "it\u0027s stony desert that\u0027s what i\u0027ve got here"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.017",
+                                "speaker":  "follower",
+                                "text":  "erm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.018",
+                                "speaker":  "giver",
+                                "text":  "but"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.019",
+                                "speaker":  "follower",
+                                "text":  "now"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.020",
+                                "speaker":  "follower",
+                                "text":  "i\u0027m starting off from the s-- just above to the north of the stony desert"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.021",
+                                "speaker":  "giver",
+                                "text":  "mmhmm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.022",
+                                "speaker":  "follower",
+                                "text":  "erm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.023",
+                                "speaker":  "follower",
+                                "text":  "have i to pass by the savannah"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.024",
+                                "speaker":  "giver",
+                                "text":  "no"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.025",
+                                "speaker":  "giver",
+                                "text":  "you\u0027ve to come down"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.026",
+                                "speaker":  "follower",
+                                "text":  "erm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.027",
+                                "speaker":  "giver",
+                                "text":  "and round past the site of the plane crash"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.028",
+                                "speaker":  "giver",
+                                "text":  "no"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.029",
+                                "speaker":  "follower",
+                                "text":  "erm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.030",
+                                "speaker":  "follower",
+                                "text":  "erm plane crash is to north of where i am"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.031",
+                                "speaker":  "giver",
+                                "text":  "well"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.032",
+                                "speaker":  "giver",
+                                "text":  "is there no one right at the bottom left-hand side of the page"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.033",
+                                "speaker":  "follower",
+                                "text":  "no"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.034",
+                                "speaker":  "giver",
+                                "text":  "okay"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.035",
+                                "speaker":  "giver",
+                                "text":  "well"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.036",
+                                "speaker":  "giver",
+                                "text":  "come to walk right to the right-hand side of the page"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.037",
+                                "speaker":  "follower",
+                                "text":  "okay"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.038",
+                                "speaker":  "giver",
+                                "text":  "eh left-hand sorry"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.039",
+                                "speaker":  "follower",
+                                "text":  "okay"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.040",
+                                "speaker":  "giver",
+                                "text":  "erm have you got a collapsed shelter"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.041",
+                                "speaker":  "follower",
+                                "text":  "yes i do"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.042",
+                                "speaker":  "giver",
+                                "text":  "right"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.043",
+                                "speaker":  "giver",
+                                "text":  "you\u0027ve to go up north and then round the collapsed shelter"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.044",
+                                "speaker":  "follower",
+                                "text":  "uh-huh"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.045",
+                                "speaker":  "giver",
+                                "text":  "erm do you meet the savannah"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.046",
+                                "speaker":  "follower",
+                                "text":  "erm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.047",
+                                "speaker":  "follower",
+                                "text":  "mm now when i when i go round past the collapsed shelter my the savannah is to my right"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.048",
+                                "speaker":  "giver",
+                                "text":  "mmhmm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.049",
+                                "speaker":  "follower",
+                                "text":  "okay"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.050",
+                                "speaker":  "giver",
+                                "text":  "well"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.051",
+                                "speaker":  "giver",
+                                "text":  "walking east"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.052",
+                                "speaker":  "follower",
+                                "text":  "that\u0027s east okay okay"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.053",
+                                "speaker":  "follower",
+                                "text":  "that\u0027s i\u0027ll change direction and walk east now towards the savannah past the collapsed shelter"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.054",
+                                "speaker":  "giver",
+                                "text":  "mmhmm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.055",
+                                "speaker":  "giver",
+                                "text":  "when you get to the savannah t-- before you ge-- turn to your left so you\u0027re heading north again"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.056",
+                                "speaker":  "follower",
+                                "text":  "okay"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.057",
+                                "speaker":  "follower",
+                                "text":  "okay"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.058",
+                                "speaker":  "giver",
+                                "text":  "until you you get over the top of the slate mountain"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.059",
+                                "speaker":  "follower",
+                                "text":  "over the top of the"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.060",
+                                "speaker":  "giver",
+                                "text":  "slate mountain"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.061",
+                                "speaker":  "follower",
+                                "text":  "don\u0027t have a slate mountain"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.062",
+                                "speaker":  "giver",
+                                "text":  "mm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.063",
+                                "speaker":  "follower",
+                                "text":  "eh i\u0027ve got some hot springs and elephants"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.064",
+                                "speaker":  "giver",
+                                "text":  "well"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.065",
+                                "speaker":  "giver",
+                                "text":  "the hot wells are after the slate mountain"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.066",
+                                "speaker":  "giver",
+                                "text":  "ehm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.067",
+                                "speaker":  "giver",
+                                "text":  "just walk up t-- to the north to about the height of hot wells the hot springs"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.068",
+                                "speaker":  "follower",
+                                "text":  "okay okay okay"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.069",
+                                "speaker":  "giver",
+                                "text":  "turn to your right well left sorry"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.070",
+                                "speaker":  "follower",
+                                "text":  "mmhmm"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.071",
+                                "speaker":  "giver",
+                                "text":  "and down below the springs"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.072",
+                                "speaker":  "follower",
+                                "text":  "walk walk below the springs"
+                            }
+                        ]
+}

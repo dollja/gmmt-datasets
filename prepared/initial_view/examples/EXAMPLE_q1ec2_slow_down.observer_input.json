@@ -1,0 +1,56 @@
+{
+    "overall_task":  "One participant describes a route, and another attempts to reproduce it on their own map. Their maps may differ, and neither participant can see the other\u0027s map.",
+    "participants":  [
+                         {
+                             "participant_id":  "giver",
+                             "known_role":  "giver"
+                         },
+                         {
+                             "participant_id":  "follower",
+                             "known_role":  "follower"
+                         }
+                     ],
+    "context_sources":  [
+                            {
+                                "source_id":  "q1ec2.map9g",
+                                "content_or_path":  "context/map9g.png",
+                                "accessible_to_participants":  [
+                                                                   "giver"
+                                                               ]
+                            },
+                            {
+                                "source_id":  "q1ec2.map9f",
+                                "content_or_path":  "context/map9f.png",
+                                "accessible_to_participants":  [
+                                                                   "follower"
+                                                               ]
+                            }
+                        ],
+    "dialogue_prefix":  [
+                            {
+                                "utterance_id":  "q1ec2.row.001",
+                                "speaker":  "giver",
+                                "text":  "right"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.002",
+                                "speaker":  "giver",
+                                "text":  "start off facing north"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.003",
+                                "speaker":  "giver",
+                                "text":  "right"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.004",
+                                "speaker":  "giver",
+                                "text":  "turn to your left and walk forward then to your left again keep walking forward \u0027til you come to the site of a plane crash go right roundabout it and turn to your right so you end up facing north again"
+                            },
+                            {
+                                "utterance_id":  "q1ec2.row.005",
+                                "speaker":  "follower",
+                                "text":  "could you just slow down a bit please"
+                            }
+                        ]
+}

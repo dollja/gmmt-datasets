@@ -1,0 +1,12 @@
+Validated 2026-10-28 (America/New_York).
+
+- Five supplied source archives were copied unchanged and SHA-256 hashed.
+- Repository ZIPs preserve 288 extracted file members matching their archive bytes.
+- HCRC acquisition contains 128 plain-text transcripts, 128 giver timed-unit XML files, 128 follower timed-unit XML files, and 32 task-map GIFs (16 giver/follower pairs).
+- For q1ec2, normalized plain-transcript word text matches the timed-unit XML text on both speaker channels.
+- Three full teaching-example JSON files parse successfully and contain all required top-level sections.
+- Three observer-only JSON files contain exactly overall_task, participants, context_sources, and dialogue_prefix.
+- Prefix counts are 5 rows/55 words, 10 rows/72 words, and 72 rows/362 words.
+- No observer-only file contains manual_annotation, later_evidence, source labels, or focus markers.
+- Both original task maps were visually inspected; the PNG copies used by observer examples were derived from the corresponding GIFs.
+- The first two teaching examples overlap and are not independent final samples.

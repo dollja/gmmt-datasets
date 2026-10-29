@@ -1,0 +1,66 @@
+{
+    "sample_id":  null,
+    "dataset":  null,
+    "task_setting_id":  null,
+    "source":  {
+                   "repository_url":  null,
+                   "dialogue_id":  null,
+                   "source_file":  null,
+                   "original_annotation_ids":  [
+
+                                               ]
+               },
+    "selection_metadata":  {
+                               "focal_episode_start_id":  null,
+                               "focus_utterance_id":  null,
+                               "first_relevant_response_id":  null,
+                               "observation_cutoff_id":  null,
+                               "cutoff_reason":  null,
+                               "prefix_utterance_count":  null,
+                               "prefix_word_count":  null
+                           },
+    "observer_input":  {
+                           "overall_task":  null,
+                           "participants":  [
+
+                                            ],
+                           "context_sources":  [
+
+                                               ],
+                           "dialogue_prefix":  [
+
+                                               ]
+                       },
+    "manual_annotation":  {
+                              "subtask_hypotheses":  [
+
+                                                     ],
+                              "focus":  {
+                                            "quote":  null,
+                                            "utterance_id":  null,
+                                            "why_selected":  null
+                                        },
+                              "participant_interpretations":  [
+
+                                                              ],
+                              "consequence_analysis":  [
+
+                                                       ],
+                              "case_type":  null,
+                              "explicit_misunderstanding_at_cutoff":  null,
+                              "rationale":  null,
+                              "selection_reason":  null
+                          },
+    "later_evidence":  {
+                           "dialogue":  [
+
+                                        ],
+                           "observed_action_or_outcome":  null,
+                           "what_it_supports":  null
+                       },
+    "annotation_notes":  {
+                             "existing_labels_used":  null,
+                             "manual_additions":  null,
+                             "limitations":  null
+                         }
+}
